@@ -8,11 +8,14 @@ image = "https://kapeland.no/uploads/images/_2000xAUTO_crop_center-center/Hogsko
 toc = true
 +++
 
-Having just wrapped up my semester as an Erasmus student at Østfold University College in Halden, Norway, I am incredibly grateful for this transformative experience and the wealth of knowledge I've gained over the past few months. In this blog post, I'll reflect on some of the fascinating activities I engaged in during my time in Norway.
+Having just wrapped up my semester as an Erasmus student at Østfold University College in Halden, Norway, I am
+incredibly grateful for this transformative experience and the wealth of knowledge I've gained over the past few months.
+In this blog post, I'll reflect on some of the fascinating activities I engaged in during my time in Norway.
 
 ## School
 
-The primary purpose of my stay in Halden was, of course, academic. I undertook three courses, each worth 10 ECTS, totaling 30 ECTS.
+The primary purpose of my stay in Halden was, of course, academic. I undertook three courses, each worth 10 ECTS,
+totaling 30 ECTS.
 
 ### Practical Machine Learning
 
@@ -56,23 +59,36 @@ planning, financial analysis, and risk management.
 
 ## Travel
 
-Living in Norway afforded me numerous travel opportunities. Besides exploring Halden and nearby cities like Oslo and Gothenburg, I embarked on two major trips.
+Living in Norway afforded me numerous travel opportunities. Besides exploring Halden and nearby cities like Oslo and
+Gothenburg, I embarked on two major trips.
 
 ### Lofoten
 
-In early October, I joined a group of fellow Erasmus students on a trip to Lofoten, a northern peninsula known for its stunning landscapes. Despite harsh weather, we enjoyed scenic hikes and the breathtaking northern lights, making it one of the most memorable places I've ever visited.
+In early October, I joined a group of fellow Erasmus students on a trip to Lofoten, a northern peninsula known for its
+stunning landscapes. Despite harsh weather, we enjoyed scenic hikes and the breathtaking northern lights, making it one
+of the most memorable places I've ever visited.
 
 ### Lillehammer - Hafjell
 
-Just this month, in between two exams, I travelled one last time before going back to Belgium, this time to Lillehammer. Lillehammer is of course famous for hosting the 1994 Winter Olympics. There we saw the ski jump and the bobsleigh track, which I vividly remember being used in Top Gear episodes.
-Not quite talented or brave enough to send it down the ski jump I instead headed over to the Hafjell ski resort, which was used for its downhill track in the winter olympics. While considerably smaller than the ski resorts typically found in the Alps, the snow here was simply incredible due to the much colder temperatures (around -15°C to -20°C) and comparatively quite affordable lift passes.
+Just this month, in between two exams, I travelled one last time before going back to Belgium, this time to Lillehammer.
+Lillehammer is of course famous for hosting the 1994 Winter Olympics. There we saw the ski jump and the bobsleigh track,
+which I vividly remember being used in Top Gear episodes.
+Not quite talented or brave enough to send it down the ski jump I instead headed over to the Hafjell ski resort, which
+was used for its downhill track in the winter olympics. While considerably smaller than the ski resorts typically found
+in the Alps, the snow here was simply incredible due to the much colder temperatures (around -15°C to -20°C) and
+comparatively quite affordable lift passes.
 
 ## Sports
 
-Although the university provided excellent sports facilities, I took up running, fulfilling a long-held dream by participating in the Oslo Marathon. Despite limited training, the experience was exhilarating and painful, but ultimately rewarding. Running through the streets of Oslo is a memory I will forever cherish, and it has inspired me to continue running.
+Although the university provided excellent sports facilities, I took up running, fulfilling a long-held dream by
+participating in the Oslo Marathon. Despite limited training, the experience was exhilarating and painful, but
+ultimately rewarding. Running through the streets of Oslo is a memory I will forever cherish, and it has inspired me to
+continue running.
 
 ## Conclusion
 
-My time as an Erasmus student in Norway has been an incredible journey filled with academic achievements, unforgettable travels, and personal milestones. 
-I am proud to have embraced every opportunity, learned invaluable lessons, and created lasting memories. 
-This experience has undoubtedly enriched my life, and I am excited to carry these experiences and skills into my future endeavors.
+My time as an Erasmus student in Norway has been an incredible journey filled with academic achievements, unforgettable
+travels, and personal milestones.
+I am proud to have embraced every opportunity, learned invaluable lessons, and created lasting memories.
+This experience has undoubtedly enriched my life, and I am excited to carry these experiences and skills into my future
+endeavors.

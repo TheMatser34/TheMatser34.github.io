@@ -18,7 +18,8 @@ name = "Mats Fiers"
 email = "mats@mrfs.me"
 
 [header]
-logo = "logo.svg"
+logo = "logo.jpg"
+sticky = false
 
 [footer]
 since = 2024
