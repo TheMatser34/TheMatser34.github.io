@@ -1,8 +1,8 @@
 +++
 author = "Mats Fiers"
-title = "blended summer school Applied Cyber Security: from Theory to Practice"
+title = "Summer school Lithuania"
 date = "2023-04-23"
-description = "Blended Intensive Programme: Trends in Research and Innovation in the Context of Computer Science at FH St. Pölten"
+description = "blended summer school Applied Cyber Security: from Theory to Practice"
 tags = ["International", "Education", "Travel"]
 image = "https://hesdia.kaunokolegija.lt/wp-content/uploads/2013/06/pastatas.jpg"
 +++
