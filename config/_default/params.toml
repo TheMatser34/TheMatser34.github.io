@@ -1,0 +1,38 @@
+# SEO keywords and description for your site.
+keywords = "Blog, Mats Fiers, IT Student"
+subtitle = "Personal Blog"
+
+# dir name of your blog content (default is `content/posts`).
+# the list of set content will show up on your index page (baseurl).
+contentTypeName = "blog"
+
+Toc = false
+
+[search]
+summaryInclude = 180
+minMatchCharLength = 2
+threshold = 0.3
+
+[author]
+name = "Mats Fiers"
+email = "mats@mrfs.me"
+
+[header]
+logo = "logo.svg"
+
+[footer]
+since = 2024
+poweredby = false
+
+[social_media]
+[[social_media.items]]
+enabled = true
+title = 'LinkedIn'
+icon = 'brand-linkedin'
+link = 'https://www.linkedin.com/in/mats-fiers/'
+
+[[social_media.items]]
+enabled = true
+title = 'Github'
+icon = 'brand-github'
+link = 'https://github.com/mfrs-me'

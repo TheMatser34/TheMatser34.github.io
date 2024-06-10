@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mfrs.me</title>
+    <link>http://localhost:43151/</link>
+    <description>Recent content on mfrs.me</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>mats@mrfs.me (Mats Fiers)</managingEditor>
+    <webMaster>mats@mrfs.me (Mats Fiers)</webMaster>
+    <copyright>Mats Fiers</copyright>
+    <lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:43151/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Outkept Phishaton 2024</title>
+      <link>http://localhost:43151/blog/outkept-phishaton-2024/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate><author>mats@mrfs.me (Mats Fiers)</author>
+      <guid>http://localhost:43151/blog/outkept-phishaton-2024/</guid>
+      <description>This &amp;ldquo;Phishaton&amp;rdquo; was a hackathon organized by Outkept , who build a community-driven phishing platform.&#xA;Stage 1: Spear-phishing The first part of the hackathon, spear-phishing, was a phishing attack on the IT department of UZ Leuven. Two weeks before the event all participants received a document with all sorts of background information about the company. Based on that we could try to develop a phishing-mail which would be sent out to the actual IT department a week before the event.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:43151/search/_index.es/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mats@mrfs.me (Mats Fiers)</author>
+      <guid>http://localhost:43151/search/_index.es/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:43151/search/_index.fr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mats@mrfs.me (Mats Fiers)</author>
+      <guid>http://localhost:43151/search/_index.fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:43151/search/_index.hi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mats@mrfs.me (Mats Fiers)</author>
+      <guid>http://localhost:43151/search/_index.hi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:43151/search/_index.jp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mats@mrfs.me (Mats Fiers)</author>
+      <guid>http://localhost:43151/search/_index.jp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:43151/search/_index.pl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mats@mrfs.me (Mats Fiers)</author>
+      <guid>http://localhost:43151/search/_index.pl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:43151/search/_index.ru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mats@mrfs.me (Mats Fiers)</author>
+      <guid>http://localhost:43151/search/_index.ru/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:43151/search/_index.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mats@mrfs.me (Mats Fiers)</author>
+      <guid>http://localhost:43151/search/_index.zh-cn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mats Fiers</title>
+      <link>http://localhost:43151/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mats@mrfs.me (Mats Fiers)</author>
+      <guid>http://localhost:43151/about/</guid>
+      <description>I&amp;rsquo;m a third-year Cybersecurity student at Howest, passionate about cybersecurity and development. On this site you can read my blog posts and find out more about me and the events and projects I&amp;rsquo;m involved in.&#xA;Education Bachelor degree in Applied Computer Science - Cybersecurity (2021 - 2024) Howest University of Applied Sciences&#xA;During my time at Howest, I have gained a solid foundation in general computer science. I have also developed a strong foundation in cybersecurity.</description>
+    </item>
+  </channel>
+</rss>

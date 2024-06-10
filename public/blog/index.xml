@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on mfrs.me</title>
+    <link>http://localhost:43151/blog/</link>
+    <description>Recent content in Blogs on mfrs.me</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>mats@mrfs.me (Mats Fiers)</managingEditor>
+    <webMaster>mats@mrfs.me (Mats Fiers)</webMaster>
+    <copyright>Mats Fiers</copyright>
+    <lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:43151/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Outkept Phishaton 2024</title>
+      <link>http://localhost:43151/blog/outkept-phishaton-2024/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate><author>mats@mrfs.me (Mats Fiers)</author>
+      <guid>http://localhost:43151/blog/outkept-phishaton-2024/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

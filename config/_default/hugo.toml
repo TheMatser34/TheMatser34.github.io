@@ -1,0 +1,33 @@
+baseURL = "https://example.com/"
+title = "mfrs.me"
+author = "Mats Fiers"
+copyright = "Mats Fiers"
+paginate = 10
+languageCode = "en"
+enableInlineShortcodes = true
+enableEmoji = true
+darkMode = true
+theme = "tailwind"
+
+
+
+
+[menu]
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+pageRef = "/blogs"
+weight = 0
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+pageRef = "/about"
+weight = 10
+
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
