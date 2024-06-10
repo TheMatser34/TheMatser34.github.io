@@ -16,14 +16,14 @@ theme = "tailwind"
 [[menu.main]]
 identifier = "blog"
 name = "Blog"
-pageRef = "/blogs"
-weight = 0
+pageRef = "/blog"
+weight = 10
 
 [[menu.main]]
 identifier = "about"
 name = "About"
 pageRef = "/about"
-weight = 10
+weight = 20
 
 
 
