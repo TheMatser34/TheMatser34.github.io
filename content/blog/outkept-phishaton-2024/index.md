@@ -2,7 +2,7 @@
 author = "Mats Fiers"
 title = "Outkept Phishaton 2024"
 date = "2024-06-04"
-description = "Hackathon with Outkept, centcered on phishing attacks"
+description = "Hackathon with Outkept, centered on phishing attacks"
 tags = ["Hackathon", "Phishing"]
 image = "images/phishaton.png"
 +++
