@@ -8,6 +8,8 @@ enableInlineShortcodes = true
 enableEmoji = true
 darkMode = true
 theme = "tailwind"
+enableRobotsTXT = true
+
 
 
 
